@@ -1,4 +1,5 @@
 # Icebreaker App Template
+Translated to NL & Customized by OfficeGrip.NL
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Solution-overview) |
 | ---- | ---- | ---- |
