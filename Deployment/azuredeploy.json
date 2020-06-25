@@ -28,7 +28,7 @@
         "appDescription": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "ijsBreker is een bot die elke week meetings pland tussen 2 random personen.",
+            "defaultValue": "ijsBreker is een bot die elke week meetings plant tussen 2 random personen.",
             "metadata": {
                 "description": "The description for the app."
             }
@@ -151,7 +151,7 @@
         "gitRepoUrl": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "https://github.com/OfficeDev/microsoft-teams-icebreaker-app.git",
+            "defaultValue": "https://github.com/stefanOfficegrip/IceBreaker.git",
             "metadata": {
               "description": "The URL to the GitHub repository to deploy."
             }
